@@ -6,13 +6,13 @@ If any of the sections in this template grows to more than one screen, consider 
 
 Provide a README file with the following information:
 
-# Project Name
+# Project Name //todo
 
-## Project summary
+## Project summary //todo
 
 ### One-sentence description of the project
 
-TODO: A 20-second elevator pitch of your project - its core idea summarized in one sentence.
+A website to organize info on legislative bills and the meetings and people related to them.
 
 ### Additional information about the project
 
