@@ -6,9 +6,22 @@ If any of the sections in this template grows to more than one screen, consider 
 
 Provide a README file with the following information:
 
-# Project Name //todo
+# Legislative Bill Organizer
 
-## Project summary //todo
+## Project summary //todo finalize whether we want this in bullets or a paragraph.
+Create a website to view details on the activity of the Washington state
+legislature.
+- fetch data on current bills from relevant websites
+- display that data in an easy-to-navigate manner.
+- synchronize legislature meeting times to their local calendar
+- track selected bills
+- follow various people of interest
+- automatically track bills that they have created and export collected data.
+- search through collected data using various filters
+- view the history of any bill including
+  - what actions have been taken on the bill
+  - the current status of the bill
+  - people involved with the bill.
 
 ### One-sentence description of the project
 
